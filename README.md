@@ -33,12 +33,14 @@ Inicia la aplicación
 
 📂 Estructura general
 
+```bash
 Finances/
 ├── src/                 # Código fuente principal
 ├── assets/              # Imágenes, íconos, estilos
 ├── data/                # Datos locales o simulados
 ├── README.md            # Este archivo
 └── package.json         # Configuración y dependencias
+```
 
 📌 Roadmap
 
